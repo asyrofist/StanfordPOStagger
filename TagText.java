@@ -12,8 +12,8 @@ public class TagText {
  
         // Initialize the tagger
         MaxentTagger tagger = new MaxentTagger("taggers/english-bidirectional-distsim.tagger");
-        PrintWriter printOut = new PrintWriter("Brown_Corpus_tagged.txt");
-        String fileName = "Brown_Corpus.txt";
+        PrintWriter printOut = new PrintWriter("Penn_Corpus_sentc_tagged_train.txt");
+        String fileName = "Penn_Corpus_sentc.txt";
         int numLines = numLines(fileName);
         System.out.println(numLines);
         Scanner fromFile = new Scanner(new FileReader(fileName));
@@ -21,6 +21,9 @@ public class TagText {
             String line = fromFile.nextLine();
             String tagged = tagger.tagString(line);
             printOut.println(tagged);
+            if(i % 100 == 0){
+                System.out.println("No. Lines Completed: " + i);
+            }
         }
         printOut.close();
         System.out.println("Finished all lines!");

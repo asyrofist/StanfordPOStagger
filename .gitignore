@@ -1,0 +1,7 @@
+/bin/
+.idea
+/.ipynb_checkpoints/
+/out/
+.project
+.classpath
+*.class
