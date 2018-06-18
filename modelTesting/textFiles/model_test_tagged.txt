@@ -53,19 +53,24 @@ The_DT latest_JJS results_NNS include_VB some_DT unusual_JJ write-downs_JJ ,_, w
 Those_DT included_VBD costs_NNS associated_VBN with_IN the_DT potential_JJ Valley_NNP Federal_JJ Savings_NNP and_CC Loan_NNP Association_NNP acquisition_NN ,_, which_IN was_VBD terminated_VBD on_RB Sept._JJ 27_CD ,_, 1989_CD ._.
 In_NNP addition_NN ,_, operating_NN results_NNS were_VBD hit_NN by_RB an_DT increase_NN in_RB loan_NN and_CC real_JJ estate_NN loss_NN reserves_NNS ._.
 In_NNP American_JJ Stock_NN Exchange_NNP composite_JJ trading_NN ,_, Citadel_JJ shares_NNS closed_VBD yesterday_NN at_IN $_$ 45.75_JJ ,_, down_RB 25_CD cents_NNS ._.
-The_DT following_JJ were_VBD among_IN yesterday_NN 's_POS offerings_JJ and_CC pricings_JJ in_RB the_DT U.S._JJ and_CC non-U.S._JJ capital_NN markets_NNS ,_, with_IN terms_NNS and_CC syndicate_JJ manager_NN ,_, as_RB compiled_VBN by_RB Dow_NNP Jones_NNP Capital_NNP Markets_JJ Report_NNP :_: International_NNP Business_NNP Machines_NNP Corp._NNP --_: $_$ 750_JJ million_CD of_IN 8 3\/8_JJ %_NN debentures_NNS due_JJ Nov._NN 1_CD ,_, 2019_CD ,_, priced_VBN at_IN 99_JJ to_JJ yield_NN 8.467_JJ %_NN ._.
+The_DT following_JJ were_VBD among_IN yesterday_NN 's_POS offerings_JJ and_CC pricings_JJ in_RB the_DT U.S._JJ and_CC non-U.S._JJ capital_NN markets_NNS ,_, with_IN terms_NNS and_CC syndicate_JJ manager_NN ,_, as_RB compiled_VBN by_RB Dow_NNP Jones_NNP Capital_NNP Markets_JJ Report_NNP :_:
+International_NNP Business_NNP Machines_NNP Corp._NNP --_:
+$_$ 750_JJ million_CD of_IN 8 3\/8_JJ %_NN debentures_NNS due_JJ Nov._NN 1_CD ,_, 2019_CD ,_, priced_VBN at_IN 99_JJ to_JJ yield_NN 8.467_JJ %_NN ._.
 The_DT 30-year_JJ non-callable_JJ issue_NN was_VBD priced_VBN at_IN a_DT spread_VB of_IN 57_JJ basis_NN points_NNS above_RB the_DT Treasury_NNP 's_POS 8 1\/8_JJ %_NN bellwether_JJ long_RB bond_NN ._.
 Rated_JJ triple-A_JJ by_RB both_DT Moody_JJ 's_POS Investors_NNS Service_NNP Inc._NNP and_CC Standard_NNP &_CC Poor_NNP 's_POS Corp._NNP ,_, the_DT issue_NN will_MD be_VB sold_VBD through_IN underwriters_NNS led_VBD by_RB Salomon_NNP Brothers_NNPS Inc_NNP ._.
 The_DT size_NN of_IN the_DT issue_NN was_VBD increased_VBD from_IN an_DT originally_RB planned_JJ $_$ 500_CD million_CD ._.
-Detroit_NNP --_: $_$ 130_CD million_CD of_IN general_JJ obligation_JJ distributable_JJ state_NN aid_NN bonds_NNS due_JJ 1991-2000_JJ and_CC 2009_JJ ,_, tentatively_JJ priced_VBN by_RB a_DT Chemical_NNP Securities_NNP Inc._NNP group_NN to_JJ yield_NN from_IN 6.20_JJ %_NN in_RB 1991_CD to_JJ 7.272_JJ %_NN in_RB 2009_JJ ._.
+Detroit_NNP --_:
+$_$ 130_CD million_CD of_IN general_JJ obligation_JJ distributable_JJ state_NN aid_NN bonds_NNS due_JJ 1991-2000_JJ and_CC 2009_JJ ,_, tentatively_JJ priced_VBN by_RB a_DT Chemical_NNP Securities_NNP Inc._NNP group_NN to_JJ yield_NN from_IN 6.20_JJ %_NN in_RB 1991_CD to_JJ 7.272_JJ %_NN in_RB 2009_JJ ._.
 There_EX is_VBZ $_$ 81.8_JJ million_CD of_IN 7.20_JJ %_NN term_NN bonds_NNS due_JJ 2009_JJ priced_VBN at_IN 99 1\/4_JJ to_JJ yield_NN 7.272_JJ %_NN ._.
 Serial_JJ bonds_NNS are_NN priced_VBN to_JJ yield_NN from_IN 6.20_JJ %_NN in_RB 1991_CD to_JJ 7_CD %_NN in_RB 2000_JJ ._.
 The_DT bonds_NNS are_NN insured_JJ and_CC triple-A-rated_JJ ._.
-Santa_NNP Ana_JJ Community_JJ Redevelopment_JJ Agency_NNP ,_, Calif._NNP --_: $_$ 107_JJ million_CD of_IN tax_NN allocation_JJ bonds_NNS ,_, 1989_CD Series_NNP A-D_JJ ,_, due_JJ 1991-1999_JJ ,_, 2009_JJ and_CC 2019_CD ,_, tentatively_JJ priced_VBN by_RB a_DT Donaldson_NNP Lufkin_NNP &_CC Jenrette_NNP Securities_NNP Corp._NNP group_NN to_JJ yield_NN from_IN 6.40_JJ %_NN in_RB 1991_CD to_JJ 7.458_JJ %_NN in_RB 2019_CD ._.
+Santa_NNP Ana_JJ Community_JJ Redevelopment_JJ Agency_NNP ,_, Calif._NNP --_:
+$_$ 107_JJ million_CD of_IN tax_NN allocation_JJ bonds_NNS ,_, 1989_CD Series_NNP A-D_JJ ,_, due_JJ 1991-1999_JJ ,_, 2009_JJ and_CC 2019_CD ,_, tentatively_JJ priced_VBN by_RB a_DT Donaldson_NNP Lufkin_NNP &_CC Jenrette_NNP Securities_NNP Corp._NNP group_NN to_JJ yield_NN from_IN 6.40_JJ %_NN in_RB 1991_CD to_JJ 7.458_JJ %_NN in_RB 2019_CD ._.
 The_DT 7 3\/8_JJ %_NN term_NN bonds_NNS due_JJ 2009_JJ are_NN priced_VBN at_IN 99 1\/2_JJ to_JJ yield_NN 7.422_JJ %_NN ,_, and_CC 7 3\/8_JJ %_NN term_NN bonds_NNS due_JJ 2019_CD are_NN priced_VBN at_IN 99_JJ to_JJ yield_NN 7.458_JJ %_NN ._.
 Serial_JJ bonds_NNS are_NN priced_VBN at_IN par_NN to_JJ yield_NN from_IN 6.40_JJ %_NN in_RB 1991_CD to_JJ 7.15_JJ %_NN in_RB 1999_CD ._.
 The_DT bonds_NNS are_NN rated_JJ single-A_JJ by_RB S&P_NNP ,_, according_VBG to_JJ the_DT lead_NN underwriter_JJ ._.
-Maryland_NNP Community_JJ Development_NNP Administration_NNP ,_, Department_NN of_IN Housing_JJ and_CC Community_JJ Development_NNP --_: $_$ 80.8_JJ million_CD of_IN single-family_JJ program_NN bonds_NNS ,_, 1989_CD fourth_JJ and_CC fifth_JJ series_NN ,_, tentatively_JJ priced_VBN by_RB a_DT Merrill_NNP Lynch_NNP Capital_NNP Markets_JJ group_NN to_JJ yield_NN from_IN 6.25_JJ %_NN in_RB 1992_CD for_RB fourth_JJ series_NN bonds_NNS to_JJ 7.74_JJ %_NN in_RB 2029_JJ for_RB fifth_JJ series_NN bonds_NNS ._.
+Maryland_NNP Community_JJ Development_NNP Administration_NNP ,_, Department_NN of_IN Housing_JJ and_CC Community_JJ Development_NNP --_:
+$_$ 80.8_JJ million_CD of_IN single-family_JJ program_NN bonds_NNS ,_, 1989_CD fourth_JJ and_CC fifth_JJ series_NN ,_, tentatively_JJ priced_VBN by_RB a_DT Merrill_NNP Lynch_NNP Capital_NNP Markets_JJ group_NN to_JJ yield_NN from_IN 6.25_JJ %_NN in_RB 1992_CD for_RB fourth_JJ series_NN bonds_NNS to_JJ 7.74_JJ %_NN in_RB 2029_JJ for_RB fifth_JJ series_NN bonds_NNS ._.
 There_EX is_VBZ $_$ 30.9_JJ million_CD of_IN fourth_JJ series_NN bonds_NNS ,_, the_DT interest_NN on_RB which_IN is_VBZ not_RB subject_JJ to_JJ the_DT federal_JJ alternative_NN minimum_NN tax_NN ._.
 They_PRP mature_JJ 1992-1999_JJ ,_, 2009_JJ and_CC 2017_JJ ._.
 Fourth_JJ series_NN serial_JJ bonds_NNS are_NN priced_VBN at_IN par_NN to_JJ yield_NN from_IN 6.25_JJ %_NN in_RB 1992_CD to_JJ 7_CD %_NN in_RB 1999_CD ._.
@@ -75,25 +80,26 @@ They_PRP mature_JJ in_RB 2005_JJ ,_, 2009_JJ and_CC 2029_JJ ._.
 Bonds_JJ due_JJ in_RB 2005_JJ have_VB a_DT 7 1\/2_JJ %_NN coupon_NN and_CC are_NN priced_VBN at_IN par_NN ._.
 The_DT 7 5\/8_JJ %_NN bonds_NNS due_JJ 2009_JJ are_NN priced_VBN to_JJ yield_NN 7.65_JJ %_NN ,_, and_CC 7 5\/8_JJ %_NN bonds_NNS due_JJ 2029_JJ are_NN priced_VBN at_IN 98 1\/2_JJ to_JJ yield_NN 7.74_JJ %_NN ._.
 The_DT underwriters_NNS expect_VB a_DT double-A_JJ rating_JJ from_IN Moody_JJ 's_POS ._.
-Heiwado_JJ Co_NNP ._.
--LRB-_-LRB- Japan_NNP -RRB-_-RRB- --_: $_$ 100_CD million_CD of_IN Eurobonds_JJ due_JJ Nov._NN 16_CD ,_, 1993_CD ,_, with_IN equity-purchase_JJ warrants_NNS ,_, indicating_JJ a_DT 3 7\/8_JJ %_NN coupon_NN at_IN par_NN ,_, via_IN Daiwa_NNP Europe_NNP Ltd_NNP ._.
+Heiwado_JJ Co_NNP ._. -LRB-_-LRB- Japan_NNP -RRB-_-RRB- --_:
+$_$ 100_CD million_CD of_IN Eurobonds_JJ due_JJ Nov._NN 16_CD ,_, 1993_CD ,_, with_IN equity-purchase_JJ warrants_NNS ,_, indicating_JJ a_DT 3 7\/8_JJ %_NN coupon_NN at_IN par_NN ,_, via_IN Daiwa_NNP Europe_NNP Ltd_NNP ._.
 Each_DT $_$ 5,000_CD bond_NN carries_VBZ one_NN warrant_NN ,_, exercisable_JJ from_IN Nov._NN 30_CD ,_, 1989_CD ,_, through_IN Nov._NN 2_CD ,_, 1993_CD ,_, 0_CD- to_JJ buy_NN shares_NNS at_IN an_DT expected_VBN premium_NN of_IN 2 1\/2_JJ %_NN to_JJ the_DT closing_JJ price_NN when_WRB terms_NNS are_NN fixed_VBN Tuesday_NNP ._.
 Fees_JJ 2 1\/4_JJ ._.
-Svenska_JJ Intecknings_JJ Garanti_JJ Aktiebolaget_JJ -LRB-_-LRB- Sweden_JJ -RRB-_-RRB- --_: 20_CD billion_CD yen_NN of_IN 6_CD %_NN Eurobonds_JJ due_JJ Nov._NN 21_CD ,_, 1994_JJ ,_, priced_VBN at_IN 101 3\/4_JJ to_JJ yield_NN 6.03_JJ %_NN less_RBR full_JJ fees_NNS ,_, via_IN Mitsui_NNP Finance_NNP International_NNP ._.
+Svenska_JJ Intecknings_JJ Garanti_JJ Aktiebolaget_JJ -LRB-_-LRB- Sweden_JJ -RRB-_-RRB- --_:
+20_CD billion_CD yen_NN of_IN 6_CD %_NN Eurobonds_JJ due_JJ Nov._NN 21_CD ,_, 1994_JJ ,_, priced_VBN at_IN 101 3\/4_JJ to_JJ yield_NN 6.03_JJ %_NN less_RBR full_JJ fees_NNS ,_, via_IN Mitsui_NNP Finance_NNP International_NNP ._.
 Guaranteed_VBN by_RB Svenska_JJ Handelsbanken_JJ ._.
 Fees_JJ 1 7\/8_JJ ._.
-Takashima_JJ &_CC Co_NNP ._.
--LRB-_-LRB- Japan_NNP -RRB-_-RRB- --_: 50_CD million_CD Swiss_JJ francs_JJ of_IN privately_RB placed_VBD convertible_JJ notes_NNS due_JJ March_NNP 31_CD ,_, 1994_JJ ,_, with_IN a_DT fixed_VBN 0.25_CD %_NN coupon_NN at_IN par_NN via_IN Yamaichi_JJ Bank_NNP -LRB-_-LRB- Switzerland_NNP -RRB-_-RRB- ._.
+Takashima_JJ &_CC Co_NNP ._. -LRB-_-LRB- Japan_NNP -RRB-_-RRB- --_:
+50_CD million_CD Swiss_JJ francs_JJ of_IN privately_RB placed_VBD convertible_JJ notes_NNS due_JJ March_NNP 31_CD ,_, 1994_JJ ,_, with_IN a_DT fixed_VBN 0.25_CD %_NN coupon_NN at_IN par_NN via_IN Yamaichi_JJ Bank_NNP -LRB-_-LRB- Switzerland_NNP -RRB-_-RRB- ._.
 Put_VBN option_NN March_NNP 31_CD ,_, 1992_CD ,_, at_IN a_DT fixed_VBN 107 7\/8_JJ to_JJ yield_NN 3.43_JJ %_NN ._.
 Each_DT 50,000_CD Swiss_JJ franc_JJ note_NN is_VBZ convertible_JJ from_IN Nov._NN 30_CD ,_, 1989_CD ,_, to_JJ March_NNP 16_CD ,_, 1994_JJ at_IN a_DT 5_CD %_NN premium_NN over_RB the_DT closing_JJ share_NN price_NN Monday_NNP ,_, when_WRB terms_NNS are_NN scheduled_VBN to_JJ be_VB fixed_VBN ._.
 Fees_JJ 1 3\/4_JJ ._.
-Mitsubishi_NNP Pencil_JJ Co_NNP ._.
--LRB-_-LRB- Japan_NNP -RRB-_-RRB- --_: 60_CD million_CD Swiss_JJ francs_JJ of_IN privately_RB placed_VBD convertible_JJ notes_NNS due_JJ Dec._NN 31_CD ,_, 1993_CD ,_, with_IN a_DT fixed_VBN 0.25_CD %_NN coupon_NN at_IN par_NN via_IN Union_NNP Bank_NNP of_IN Switzerland_NNP ._.
+Mitsubishi_NNP Pencil_JJ Co_NNP ._. -LRB-_-LRB- Japan_NNP -RRB-_-RRB- --_:
+60_CD million_CD Swiss_JJ francs_JJ of_IN privately_RB placed_VBD convertible_JJ notes_NNS due_JJ Dec._NN 31_CD ,_, 1993_CD ,_, with_IN a_DT fixed_VBN 0.25_CD %_NN coupon_NN at_IN par_NN via_IN Union_NNP Bank_NNP of_IN Switzerland_NNP ._.
 Put_VBN option_NN on_RB Dec._NN 31_CD ,_, 1991_CD ,_, at_IN a_DT fixed_VBN 106 7\/8_JJ to_JJ yield_NN 3.42_JJ %_NN ._.
 Each_DT 50,000_CD Swiss_JJ franc_JJ note_NN is_VBZ convertible_JJ from_IN Dec._NN 5_CD ,_, 1989_CD ,_, to_JJ Dec._NN 31_CD ,_, 1993_CD ,_, at_IN a_DT 5_CD %_NN premium_NN over_RB the_DT closing_JJ share_NN price_NN Tuesday_NNP ,_, when_WRB terms_NNS are_NN scheduled_VBN to_JJ be_VB fixed_VBN ._.
 Fees_JJ 1 5\/8_JJ ._.
-Koizumi_JJ Sangyo_JJ Corp_NNP ._.
--LRB-_-LRB- Japan_NNP -RRB-_-RRB- --_: 20_CD million_CD Swiss_JJ francs_JJ of_IN 6 1\/2_JJ %_NN privately_RB placed_VBD notes_NNS due_JJ Nov._NN 29_CD ,_, 1996_JJ ,_, priced_VBN at_IN 99 1\/2_JJ via_IN Dai-Ichi_JJ Kangyo_JJ Bank_NNP -LRB-_-LRB- Schweiz_JJ -RRB-_-RRB- ._.
+Koizumi_JJ Sangyo_JJ Corp_NNP ._. -LRB-_-LRB- Japan_NNP -RRB-_-RRB- --_:
+20_CD million_CD Swiss_JJ francs_JJ of_IN 6 1\/2_JJ %_NN privately_RB placed_VBD notes_NNS due_JJ Nov._NN 29_CD ,_, 1996_JJ ,_, priced_VBN at_IN 99 1\/2_JJ via_IN Dai-Ichi_JJ Kangyo_JJ Bank_NNP -LRB-_-LRB- Schweiz_JJ -RRB-_-RRB- ._.
 Guarantee_JJ by_RB Dai-Ichi_JJ Kangyo_JJ Bank_NNP Ltd_NNP ._.
 Fees_JJ 1 3\/4_JJ ._.
 Although_IN his_PRP$ team_NN lost_VBD the_DT World_NN Series_NNP ,_, San_NNP Francisco_NNP Giants_NNP owner_NN Bob_NNP Lurie_JJ hopes_NNS to_JJ have_VB a_DT new_JJ home_NN for_RB them_PRP ._.
@@ -158,8 +164,7 @@ In_NNP a_DT recent_JJ report_NN ,_, Moody_JJ 's_POS said_VBD 0_CD- it_PRP ``_`` 
 It_PRP said_VBD that_DT the_DT ``_`` temptation_NN for_RB managements_JJ to_JJ ease_VB this_DT profit_NN pressure_NN by_RB taking_VBG greater_JJR risks_NNS is_VBZ an_DT additional_JJ rating_JJ factor_NN ._. ''_''
 Both_DT Moody_JJ 's_POS and_CC S&P_NNP cited_VBD First_JJ Boston_NNP 's_POS reliance_JJ in_RB recent_JJ years_NNS on_RB merchant_NN banking_NN ,_, which_IN has_VBP been_VBN responsible_JJ for_RB a_DT significant_JJ portion_NN of_IN the_DT closely_RB held_VBD firm_NN 's_POS profit_NN ._.
 The_DT recent_JJ cash_NN squeeze_JJ at_IN Campeau_JJ Corp._NNP ,_, First_JJ Boston_NNP 's_POS most_JJS lucrative_JJ client_NN of_IN the_DT decade_NN ,_, is_VBZ proving_JJ costly_JJ to_JJ First_JJ Boston_NNP because_RB it_PRP arranged_JJ more_JJ than_IN $_$ 3_CD billion_CD of_IN high-yield_JJ ,_, high-risk_JJ junk_NN financings_JJ for_RB Campeau_JJ units_NNS ._.
-In_NNP addition_NN ,_, a_DT big_JJ loan_NN that_DT First_JJ Boston_NNP made_VBD to_JJ Ohio_NNP Mattress_JJ Co_NNP ._.
-was_VBD n't_RB repaid_VBN on_RB time_NN when_WRB its_PRP$ $_$ 450_CD million_CD junk_NN financing_NN for_RB a_DT buy-out_JJ of_IN the_DT bedding_JJ company_NN was_VBD withdrawn_VBN ._.
+In_NNP addition_NN ,_, a_DT big_JJ loan_NN that_DT First_JJ Boston_NNP made_VBD to_JJ Ohio_NNP Mattress_JJ Co_NNP ._. was_VBD n't_RB repaid_VBN on_RB time_NN when_WRB its_PRP$ $_$ 450_CD million_CD junk_NN financing_NN for_RB a_DT buy-out_JJ of_IN the_DT bedding_JJ company_NN was_VBD withdrawn_VBN ._.
 ``_`` These_DT two_CD exposures_NNS alone_RB represent_VB a_DT very_RB substantial_JJ portion_NN of_IN CS_JJ First_JJ Boston_NNP 's_POS equity_NN ,_, ''_'' Moody_JJ 's_POS said_VBD ._.
 ``_`` Total_JJ merchant_NN banking_NN exposures_NNS are_NN in_RB excess_JJ of_IN the_DT firm_NN 's_POS equity_NN ._. ''_''
 CS_JJ First_JJ Boston_NNP ,_, however_RB ,_, benefits_NNS from_IN the_DT backing_VBG of_IN its_PRP$ largest_JJS shareholder_NN ,_, Credit_NNP Suisse_JJ ,_, Switzerland_NNP 's_POS third_JJ largest_JJS bank_NN ._.
@@ -224,8 +229,7 @@ They_PRP must_MD figure_NN that_DT justice_NN has_VBP to_JJ get_VB done_VBN by_R
 Odyssey_JJ Partners_NNP Limited_JJ Partnership_JJ ,_, an_DT investment_NN firm_NN ,_, completed_VBD the_DT purchase_NN of_IN May_NNP Department_NN Stores_NNP Co._NNP 's_POS Caldor_JJ discount_NN chain_NN for_RB $_$ 500_CD million_CD plus_CC the_DT assumption_NN of_IN $_$ 52_CD million_CD in_RB debt_NN ._.
 Caldor_JJ ,_, based_VBN in_RB Norwalk_JJ ,_, Conn._NNP ,_, operates_VBZ 118_JJ stores_NNS in_RB the_DT Northeast_NNP ;_: it_PRP reported_VBD revenue_NN of_IN $_$ 1.6_CD billion_CD last_JJ year_NN ._.
 May_NNP Stores_NNP ,_, St._NNP Louis_NNP ,_, runs_VBZ such_JJ well-known_JJ department_NN stores_NNS as_RB Lord_NNP &_CC Taylor_JJ ._.
-N.V_JJ ._.
-DSM_JJ said_VBD 0_CD- net_JJ income_NN in_RB the_DT third_JJ quarter_NN jumped_VBD 63_CD %_NN as_RB the_DT company_NN had_VBD substantially_RB lower_JJR extraordinary_JJ charges_NNS to_JJ account_NN for_RB a_DT restructuring_NN program_NN ._.
+N.V_JJ ._. DSM_JJ said_VBD 0_CD- net_JJ income_NN in_RB the_DT third_JJ quarter_NN jumped_VBD 63_CD %_NN as_RB the_DT company_NN had_VBD substantially_RB lower_JJR extraordinary_JJ charges_NNS to_JJ account_NN for_RB a_DT restructuring_NN program_NN ._.
 The_DT Dutch_NNP chemical_NN group_NN said_VBD 0_CD- net_JJ income_NN gained_VBD to_JJ 235_JJ million_CD guilders_JJ -LRB-_-LRB- $_$ 113.2_JJ million_CD -RRB-_-RRB- ,_, or_CC 6.70_JJ guilders_JJ a_DT share_NN ,_, from_IN 144_JJ million_CD guilders_JJ ,_, or_CC 4.10_JJ guilders_JJ a_DT share_NN ,_, a_DT year_NN ago_RB ._.
 The_DT 32_CD %_NN state-owned_JJ DSM_JJ had_VBD eight_CD million_CD guilders_JJ of_IN extraordinary_JJ charges_NNS in_RB the_DT latest_JJS quarter_NN ,_, mainly_RB to_JJ reflect_VB one-time_JJ losses_NNS in_RB connection_NN with_IN the_DT disposal_JJ of_IN some_DT operations_NNS ._.
 The_DT charges_NNS were_VBD offset_VB in_RB part_NN by_RB a_DT gain_NN from_IN the_DT sale_NN of_IN the_DT company_NN 's_POS construction_NN division_NN ._.
@@ -311,7 +315,8 @@ Manila_JJ markets_NNS were_VBD closed_VBD for_RB a_DT holiday_JJ ._.
 Here_RB are_NN price_NN trends_NNS on_RB the_DT world_NN 's_POS major_JJ stock_NN markets_NNS ,_, as_RB calculated_JJ by_RB Morgan_NNP Stanley_NNP Capital_NNP International_NNP Perspective_JJ ,_, Geneva_JJ ._.
 To_TO make_VB them_PRP directly_RB comparable_JJ ,_, each_DT index_NN is_VBZ based_VBN on_RB the_DT close_JJ of_IN 1969_JJ equaling_JJ 100_CD ._.
 The_DT percentage_NN change_NN is_VBZ since_IN year-end_NN ._.
-The_DT following_JJ issues_NNS were_VBD recently_RB filed_VBD with_IN the_DT Securities_NNP and_CC Exchange_NNP Commission_NNP :_: Intermec_JJ Corp._NNP ,_, offering_NN of_IN 1,050,000_JJ common_JJ shares_NNS ,_, via_IN Goldman_NNP ,_, Sachs_NNP &_CC Co._NNP and_CC Piper_JJ ,_, Jaffray_JJ &_CC Hopwood_JJ Inc_NNP ._.
+The_DT following_JJ issues_NNS were_VBD recently_RB filed_VBD with_IN the_DT Securities_NNP and_CC Exchange_NNP Commission_NNP :_:
+Intermec_JJ Corp._NNP ,_, offering_NN of_IN 1,050,000_JJ common_JJ shares_NNS ,_, via_IN Goldman_NNP ,_, Sachs_NNP &_CC Co._NNP and_CC Piper_JJ ,_, Jaffray_JJ &_CC Hopwood_JJ Inc_NNP ._.
 Middlesex_JJ Water_JJ Co._NNP ,_, offering_NN of_IN 150,000_JJ shares_NNS of_IN common_JJ stock_NN ,_, via_IN Legg_NNP Mason_NNP Wood_NNP Walker_JJ Inc._NNP and_CC Howard_JJ ,_, Weil_JJ ,_, Labouisse_JJ ,_, Friedrichs_JJ Inc_NNP ._.
 Midwesco_JJ Filter_JJ Resources_NNPS Inc._NNP ,_, initial_JJ offering_NN of_IN 830,000_JJ common_JJ shares_NNS ,_, 0_CD- to_JJ be_VB offered_VBD by_RB the_DT company_NN ,_, via_IN Chicago_NNP Corp_NNP ._.
 Nylev_JJ Municipal_JJ Fund_NNP Inc._NNP ,_, offering_NN of_IN five_CD million_CD common_JJ shares_NNS ._.
@@ -365,8 +370,7 @@ In_NNP the_DT Treasury_NNP market_NN ,_, investors_NNS paid_VBD scant_JJ attenti
 The_DT government_NN reported_VBD that_DT orders_NNS for_RB manufactured_VBN goods_NNS were_VBD essentially_RB unchanged_JJ in_RB September_NNP while_NN construction_NN spending_NN was_VBD slightly_RB lower_JJR ._.
 Both_DT indicators_NNS were_VBD viewed_VBD as_RB signs_NNS that_DT the_DT nation_NN 's_POS industrial_JJ sector_NN is_VBZ growing_JJ very_RB slowly_RB ,_, if_JJ at_IN all_DT ._.
 A_DT survey_NN by_RB the_DT Federal_JJ Reserve_NNP 's_POS 12_CD district_NN banks_NNS and_CC the_DT latest_JJS report_NN by_RB the_DT National_NNP Association_NNP of_IN Purchasing_NNP Management_NNP blurred_JJ that_DT picture_NN of_IN the_DT economy_NN ._.
-In_NNP a_DT monthly_JJ report_NN prepared_VBN for_RB use_NN at_IN the_DT Fed_NNP 's_POS next_JJ Federal_JJ Open_JJ Market_NN Committee_NNP meeting_NN on_RB Nov._NN 14_CD ._.
-,_, the_DT nation_NN 's_POS central_JJ bank_NN found_VBD that_DT price_NN increases_NNS have_VB moderated_VBN and_CC economic_JJ activity_NN has_VBP grown_VBN at_IN a_DT sluggish_JJ pace_NN in_RB recent_JJ weeks_NNS ._.
+In_NNP a_DT monthly_JJ report_NN prepared_VBN for_RB use_NN at_IN the_DT Fed_NNP 's_POS next_JJ Federal_JJ Open_JJ Market_NN Committee_NNP meeting_NN on_RB Nov._NN 14_CD ,_, the_DT nation_NN 's_POS central_JJ bank_NN found_VBD that_DT price_NN increases_NNS have_VB moderated_VBN and_CC economic_JJ activity_NN has_VBP grown_VBN at_IN a_DT sluggish_JJ pace_NN in_RB recent_JJ weeks_NNS ._.
 Among_IN other_JJ things_NNS ,_, the_DT survey_NN found_VBD that_DT manufacturing_NN activity_NN varied_JJ considerably_RB across_IN districts_NNS and_CC among_IN industries_JJ ._.
 The_DT Philadelphia_NNP and_CC Cleveland_NNP districts_NNS ,_, for_RB example_NN ,_, reported_VBD declines_NNS in_RB manufacturing_NN activity_NN while_NN the_DT Boston_NNP ,_, Dallas_NNP and_CC San_NNP Francisco_NNP banks_NNS noted_VBD that_DT business_NN expanded_VBD ._.
 The_DT purchasing_NN managers_NNS index_NN of_IN economic_JJ activity_NN rose_VBD in_RB October_NNP ,_, although_IN it_PRP remains_VBZ below_RB 50_CD %_NN ._.
@@ -375,7 +379,8 @@ Mr._NNP Lieberman_JJ said_VBD 0_CD- the_DT diverse_JJ showing_VBG in_RB yesterda
 The_DT employment_NN report_NN ,_, which_IN at_IN times_NNS has_VBP caused_VBD wide_RB swings_NNS in_RB bond_NN prices_NNS ,_, is_VBZ due_JJ out_RB tomorrow_JJ ._.
 The_DT average_JJ estimate_JJ of_IN 22_CD economists_NNS polled_VBD by_RB Dow_NNP Jones_NNP Capital_NNP Markets_JJ Report_NNP was_VBD that_DT non-farm_JJ payrolls_NNS expanded_VBD by_RB 152,000_JJ in_RB October_NNP ._.
 The_DT economists_NNS forecast_NN a_DT 0.1_CD %_NN rise_NN in_RB the_DT unemployment_JJ rate_NN to_JJ 5.4_CD %_NN ._.
-Treasury_NNP Securities_NNP In_NNP a_DT surprise_NN announcement_NN ,_, the_DT Treasury_NNP said_VBD 0_CD- it_PRP will_MD reopen_VB the_DT outstanding_JJ benchmark_NN 30-year_JJ bond_NN rather_RB than_IN create_VB a_DT new_JJ one_NN for_RB next_JJ week_NN 's_POS quarterly_JJ refunding_VBG of_IN the_DT federal_JJ debt_NN ._.
+Treasury_NNP Securities_NNP
+In_NNP a_DT surprise_NN announcement_NN ,_, the_DT Treasury_NNP said_VBD 0_CD- it_PRP will_MD reopen_VB the_DT outstanding_JJ benchmark_NN 30-year_JJ bond_NN rather_RB than_IN create_VB a_DT new_JJ one_NN for_RB next_JJ week_NN 's_POS quarterly_JJ refunding_VBG of_IN the_DT federal_JJ debt_NN ._.
 The_DT Treasury_NNP will_MD raise_NN $_$ 10_CD billion_CD in_RB fresh_JJ cash_NN by_RB selling_NN $_$ 30_CD billion_CD of_IN securities_NNS ,_, including_IN $_$ 10_CD billion_CD of_IN new_JJ three-year_JJ notes_NNS and_CC $_$ 10_CD billion_CD of_IN new_JJ 10-year_JJ notes_NNS ._.
 But_CC rather_RB than_IN sell_NN new_JJ 30-year_JJ bonds_NNS ,_, the_DT Treasury_NNP will_MD issue_NN $_$ 10_CD billion_CD of_IN 29_CD year_NN ,_, nine-month_JJ bonds_NNS --_: essentially_RB increasing_VBG the_DT size_NN of_IN the_DT current_JJ benchmark_NN 30-year_JJ bond_NN that_DT was_VBD sold_VBD at_IN the_DT previous_JJ refunding_VBG in_RB August_NNP ._.
 Credit_NNP market_NN analysts_NNS said_VBD 0_CD- the_DT decision_NN to_JJ reopen_VB the_DT current_JJ benchmark_NN ,_, the_DT 8 1\/8_JJ %_NN bond_NN due_JJ August_NNP 2019_CD ,_, is_VBZ unusual_JJ because_RB the_DT issue_NN trades_NNS at_IN a_DT premium_NN to_JJ its_PRP$ face_NN amount_NN ._.
@@ -387,7 +392,8 @@ The_DT benchmark_NN 30-year_JJ bond_NN about_RB 1\/4_CD point_NN ,_, or_CC $_$ 2
 The_DT benchmark_NN was_VBD priced_VBN at_IN 102 22\/32_JJ to_JJ yield_NN 7.88_CD %_NN compared_VBD with_IN 102 12\/32_JJ to_JJ yield_NN 7.90_CD %_NN Tuesday_NNP ._.
 The_DT latest_JJS 10-year_JJ notes_NNS were_VBD quoted_VBD at_IN 100 22\/32_JJ to_JJ yield_NN 7.88_CD %_NN compared_VBD with_IN 100 16\/32_JJ to_JJ yield_NN 7.90_CD %_NN ._.
 The_DT discount_NN rate_NN on_RB three-month_JJ Treasury_NNP bills_NNS was_VBD essentially_RB unchanged_JJ at_IN 7.79_JJ %_NN ,_, while_NN the_DT rate_NN on_RB six-month_JJ bills_NNS was_VBD slightly_RB lower_JJR at_IN 7.52_JJ %_NN compared_VBD with_IN 7.60_JJ %_NN Tuesday_NNP ._.
-Corporate_JJ Issues_JJ IBM_NNP 's_POS $_$ 750_JJ million_CD debenture_JJ offering_NN dominated_VBN activity_NN in_RB the_DT corporate_JJ debt_NN market_NN ._.
+Corporate_JJ Issues_JJ
+IBM_NNP 's_POS $_$ 750_JJ million_CD debenture_JJ offering_NN dominated_VBN activity_NN in_RB the_DT corporate_JJ debt_NN market_NN ._.
 Meanwhile_RB ,_, most_JJS investment-grade_JJ bonds_NNS ended_VBD unchanged_JJ to_JJ as_RB much_RB as_RB 1\/8_JJ point_NN higher_JJR ._.
 In_NNP its_PRP$ latest_JJS compilation_JJ of_IN performance_NN statistics_NNS ,_, Moody_JJ 's_POS Investors_NNS Service_NNP found_VBD that_DT investment-grade_JJ bonds_NNS posted_VBD a_DT total_NN return_NN of_IN 2.7_CD %_NN in_RB October_NNP while_NN junk_NN bonds_NNS showed_VBD a_DT negative_JJ return_NN of_IN 1.5_CD %_NN ._.
 Moody_JJ 's_POS said_VBD 0_CD- those_DT returns_NNS compare_JJ with_IN a_DT 3.8_CD %_NN total_NN return_NN for_RB longer-term_JJ Treasury_NNP notes_NNS and_CC bonds_NNS ._.
@@ -397,21 +403,27 @@ Junk_JJ bonds_NNS trailed_VBD the_DT group_NN again_RB ._.
 ``_`` Even_RB the_DT 7.2_JJ %_NN return_NN from_IN the_DT risk-free_JJ three-month_JJ Treasury_NNP bill_NN has_VBP easily_RB outdistanced_JJ the_DT 4.1_CD %_NN return_NN from_IN junk_NN bonds_NNS ,_, ''_'' wrote_VBD Moody_JJ 's_POS economist_NN John_NNP Lonski_JJ in_RB yesterday_NN 's_POS market_NN report_NN ._.
 ``_`` Little_RB wonder_JJ that_DT buyers_NNS for_RB junk_NN have_VB been_VBN found_VBD wanting_JJ ,_, ''_'' he_PRP said_VBD ._.
 Moody_JJ 's_POS said_VBD 0_CD- the_DT average_JJ net_JJ asset_NN value_NN of_IN 24_CD junk-bond_JJ mutual_JJ funds_NNS fell_VBD by_RB 4.2_JJ %_NN in_RB October_NNP ._.
-Mortgage-Backed_JJ Issues_JJ Mortgage_NNP securities_NNS ended_VBD slightly_RB higher_JJR but_CC trailed_VBD gains_NNS in_RB the_DT Treasury_NNP market_NN ._.
+Mortgage-Backed_JJ Issues_JJ
+Mortgage_NNP securities_NNS ended_VBD slightly_RB higher_JJR but_CC trailed_VBD gains_NNS in_RB the_DT Treasury_NNP market_NN ._.
 Ginnie_JJ Mae_NNP 's_POS 9_CD %_NN issue_NN for_RB November_NNP delivery_NN finished_VBD at_IN 98 5\/8_JJ ,_, up_RB 2\/32_JJ ,_, and_CC its_PRP$ 9 1\/2_JJ %_NN issue_NN at_IN 100 22\/32_JJ ,_, also_RB up_RB 2\/32_JJ ._.
 The_DT Ginnie_JJ Mae_NNP 9_CD %_NN securities_NNS were_VBD yielding_JJ 9.32_JJ %_NN to_JJ a_DT 12-year_JJ average_JJ life_NN ._.
 Activity_JJ was_VBD light_NN in_RB derivative_JJ markets_NNS ,_, with_IN no_DT new_JJ issues_NNS priced_VBN ._.
-Municipal_JJ Issues_JJ Municipal_JJ bonds_NNS were_VBD mostly_RB unchanged_JJ to_JJ up_RB 1\/8_JJ point_NN in_RB light_NN ,_, cautious_JJ trading_NN prior_RB to_JJ tomorrow_JJ 's_POS unemployment_JJ report_NN ._.
+Municipal_JJ Issues_JJ
+Municipal_JJ bonds_NNS were_VBD mostly_RB unchanged_JJ to_JJ up_RB 1\/8_JJ point_NN in_RB light_NN ,_, cautious_JJ trading_NN prior_RB to_JJ tomorrow_JJ 's_POS unemployment_JJ report_NN ._.
 A_DT $_$ 114_JJ million_CD issue_NN of_IN health_NN facility_NN revenue_NN bonds_NNS from_IN the_DT California_NNP Health_NNP Facilities_JJ Financing_JJ Authority_JJ was_VBD temporarily_RB withdrawn_VBN after_RB being_VBG tentatively_JJ priced_VBN by_RB a_DT First_JJ Boston_NNP Corp._NNP group_NN ._.
 An_DT official_JJ for_RB the_DT lead_NN underwriter_JJ declined_VBD to_JJ comment_NN on_RB the_DT reason_NN for_RB the_DT delay_VBP ,_, but_CC market_NN participants_NNS speculated_VBD that_DT a_DT number_NN of_IN factors_NNS ,_, including_IN a_DT lack_NN of_IN investor_NN interest_NN ,_, were_VBD responsible_JJ ._.
 The_DT issue_NN could_MD be_VB relaunched_JJ ,_, possibly_RB in_RB a_DT restructured_VBD form_NN ,_, as_RB early_JJ as_RB next_JJ week_NN ,_, according_VBG to_JJ the_DT lead_NN underwriter_JJ ._.
 A_DT $_$ 107.03_JJ million_CD offering_NN of_IN Santa_NNP Ana_JJ Community_JJ Redevelopment_JJ Agency_NNP ,_, Calif._NNP ,_, tax_NN allocation_JJ bonds_NNS got_VBD off_JJ to_JJ a_DT slow_JJ start_NN and_CC may_MD be_VB repriced_JJ at_IN lower_JJR levels_NNS today_NN ,_, according_VBG to_JJ an_DT official_JJ with_IN lead_NN underwriter_JJ Donaldson_NNP Lufkin_NNP &_CC Jenrette_NNP Securities_NNP Corp_NNP ._.
-The_DT Santa_NNP Ana_JJ bonds_NNS were_VBD tentatively_JJ priced_VBN to_JJ yield_NN from_IN 6.40_JJ %_NN in_RB 1991_CD to_JJ 7.458_JJ %_NN in_RB Bucking_JJ the_DT market_NN trend_NN ,_, an_DT issue_NN of_IN $_$ 130_CD million_CD general_JJ obligation_JJ distributable_JJ state_NN aid_NN bonds_NNS from_IN Detroit_NNP ,_, Mich._NNP ,_, apparently_RB drew_JJ solid_JJ investor_NN interest_NN ._.
-They_PRP were_VBD tentatively_JJ priced_VBN to_JJ yield_NN from_IN 6.20_JJ %_NN in_RB 1991_CD to_JJ 7.272_JJ %_NN in_RB Foreign_NNP Bond_NN West_NNP German_JJ dealers_NNS said_VBD 0_CD- there_RB was_VBD little_RB interest_NN in_RB Treasury_NNP bonds_NNS ahead_RB of_IN Thursday_NNP 's_POS new_JJ government_NN bond_NN issue_NN ._.
+The_DT Santa_NNP Ana_JJ bonds_NNS were_VBD tentatively_JJ priced_VBN to_JJ yield_NN from_IN 6.40_JJ %_NN in_RB 1991_CD to_JJ 7.458_JJ %_NN in_RB
+Bucking_JJ the_DT market_NN trend_NN ,_, an_DT issue_NN of_IN $_$ 130_CD million_CD general_JJ obligation_JJ distributable_JJ state_NN aid_NN bonds_NNS from_IN Detroit_NNP ,_, Mich._NNP ,_, apparently_RB drew_JJ solid_JJ investor_NN interest_NN ._.
+They_PRP were_VBD tentatively_JJ priced_VBN to_JJ yield_NN from_IN 6.20_JJ %_NN in_RB 1991_CD to_JJ 7.272_JJ %_NN in_RB
+Foreign_NNP Bond_NN
+West_NNP German_JJ dealers_NNS said_VBD 0_CD- there_RB was_VBD little_RB interest_NN in_RB Treasury_NNP bonds_NNS ahead_RB of_IN Thursday_NNP 's_POS new_JJ government_NN bond_NN issue_NN ._.
 So_RB far_RB ,_, they_PRP said_VBD 0_CD- ,_, investors_NNS appear_VB unenthusiastic_JJ about_RB the_DT new_JJ issue_NN which_IN might_MD force_NN the_DT government_NN to_JJ raise_NN the_DT coupon_NN to_JJ more_JJ than_IN 7_CD %_NN ._.
 It_PRP is_VBZ generally_RB expected_VBN to_JJ be_VB the_DT usual_JJ 10-year_JJ ,_, four_CD billion_CD mark_NN issue_NN ._.
 Rumors_JJ to_JJ the_DT contrary_JJ have_VB been_VBN that_DT it_PRP would_MD be_VB a_DT six_CD billion_CD mark_NN issue_NN ,_, or_CC that_DT the_DT last_JJ Bund_JJ ,_, a_DT 7_CD %_NN issue_NN due_JJ October_NNP 1999_CD ,_, would_MD be_VB increased_VBD by_RB two_CD billion_CD marks_NNS ._.
-Elsewhere_JJ :_: --_: In_NNP Japan_NNP ,_, the_DT benchmark_NN No._NN 111_JJ 4.6_JJ %_NN issue_NN due_JJ 1998_JJ ended_VBD on_RB brokers_NNS screens_NNS unchanged_JJ at_IN 95.09_JJ to_JJ yield_NN 5.435_JJ %_NN ._.
+Elsewhere_JJ :_:
+--_: In_NNP Japan_NNP ,_, the_DT benchmark_NN No._NN 111_JJ 4.6_JJ %_NN issue_NN due_JJ 1998_JJ ended_VBD on_RB brokers_NNS screens_NNS unchanged_JJ at_IN 95.09_JJ to_JJ yield_NN 5.435_JJ %_NN ._.
 --_: In_NNP Britain_NNP ,_, the_DT benchmark_NN 11 3\/4_JJ %_NN bond_NN due_JJ 2003\/2007_JJ fell_VBD 14\/32_JJ to_JJ 111 2\/32_JJ to_JJ yield_NN 10.19_JJ %_NN ._.
 The_DT 12_CD %_NN notes_NNS due_JJ 1995_JJ fell_VBD 9\/32_JJ to_JJ 103 3\/8_JJ to_JJ yield_NN 11.10_JJ %_NN ._.
 Standard_NNP &_CC Poor_NNP 's_POS Corp._NNP lowered_VBD to_JJ double-C_JJ from_IN triple-C_JJ the_DT rating_JJ on_RB about_RB $_$ 130_CD million_CD of_IN debt_NN ._.
@@ -562,7 +574,8 @@ One_NN analyst_NN ,_, Arthur_NNP Stevenson_JJ ,_, of_IN Prudential-Bache_NNP Sec
 Brazil_NNP is_VBZ the_DT third-largest_JJ producer_NN and_CC the_DT fifth-largest_JJ exporter_JJ of_IN sugar_NN in_RB the_DT world_NN ._.
 A_DT shift_JJ to_JJ producing_VBG more_JJ alcohol_NN and_CC less_RBR sugar_NN had_VBD been_VBN expected_VBN ,_, but_CC the_DT latest_JJS news_NN ,_, if_JJ true_JJ ,_, indicates_VBZ a_DT more_JJ drastic_JJ shift_JJ 0_CD- than_IN had_VBD been_VBN anticipated_VBN ._.
 During_IN the_DT current_JJ crop_NN year_NN ,_, Brazil_NNP was_VBD expected_VBN to_JJ produce_VB 6.9_CD million_CD tons_NNS of_IN sugar_NN ,_, a_DT drop_NN from_IN 8.1_JJ million_CD tons_NNS in_RB 1988-89_JJ ._.
-Its_PRP$ 1989-90_JJ exports_NNS were_VBD expected_VBN to_JJ total_NN 645,000_JJ tons_NNS in_RB contrast_VBP to_JJ shipments_NNS of_IN 1.5_CD million_CD tons_NNS in_RB ``_`` It_PRP is_VBZ these_DT 645,000_JJ tons_NNS that_DT are_NN in_RB question_NN for_RB this_DT crop_NN year_NN ,_, ''_'' explained_VBD Judith_JJ Ganes_JJ ,_, analyst_NN for_RB Shearson_NNP Lehman_NNP Hutton_NNP ,_, New_JJ York_NNP ._.
+Its_PRP$ 1989-90_JJ exports_NNS were_VBD expected_VBN to_JJ total_NN 645,000_JJ tons_NNS in_RB contrast_VBP to_JJ shipments_NNS of_IN 1.5_CD million_CD tons_NNS in_RB
+``_`` It_PRP is_VBZ these_DT 645,000_JJ tons_NNS that_DT are_NN in_RB question_NN for_RB this_DT crop_NN year_NN ,_, ''_'' explained_VBD Judith_JJ Ganes_JJ ,_, analyst_NN for_RB Shearson_NNP Lehman_NNP Hutton_NNP ,_, New_JJ York_NNP ._.
 ``_`` Producers_NNS were_VBD granted_JJ the_DT right_NN earlier_RB this_DT year_NN to_JJ ship_JJ sugar_NN and_CC the_DT export_NN licenses_JJ were_VBD expected_VBN to_JJ have_VB begun_VBN to_JJ be_VB issued_VBD ''_'' yesterday_NN ._.
 As_RB a_DT result_NN ,_, Ms._NNP Ganes_JJ said_VBD 0_CD- ,_, it_PRP is_VBZ believed_VBD that_DT little_RB or_CC no_DT sugar_NN from_IN the_DT 1989-90_JJ crop_NN has_VBP been_VBN shipped_VBN yet_RB ,_, even_RB though_RB the_DT crop_NN year_NN is_VBZ six_CD months_NNS old_JJ ._.
 More_RBR than_IN a_DT half_DT of_IN all_DT sugar_NN produced_VBN in_RB Brazil_NNP goes_VBZ for_RB alcohol_NN production_NN ,_, according_VBG to_JJ Ms._NNP Ganes_JJ ._.
@@ -578,20 +591,24 @@ On_IN the_DT one_NN hand_NN ,_, Brazil_NNP started_VBD an_DT ethanol_JJ program_
 Mexico_NNP ,_, which_IN is_VBZ normally_RB a_DT sugar_NN exporter_JJ ,_, has_VBP had_VBD production_NN problems_NNS in_RB the_DT past_JJ two_CD years_NNS ,_, analysts_NNS said_VBD 0_CD- ._.
 Last_JJ year_NN ,_, it_PRP had_VBD to_JJ buy_NN sugar_NN on_RB the_DT world_NN market_NN to_JJ meet_VB export_NN commitments_NNS ,_, they_PRP noted_VBD 0_CD- ._.
 This_DT year_NN it_PRP is_VBZ expected_VBN to_JJ be_VB a_DT net_JJ importer_JJ and_CC is_VBZ said_VBD to_JJ be_VB seeking_VBG to_JJ buy_NN about_RB 200,000_CD tons_NNS of_IN sugar_NN to_JJ meet_VB internal_JJ needs_NNS ,_, analysts_NNS said_VBD 0_CD- ._.
-In_NNP other_JJ commodity_NN markets_NNS yesterday_NN :_: ENERGY_JJ :_: Petroleum_NNP futures_NNS were_VBD generally_RB higher_JJR with_IN heating_NN oil_NN leading_VBG the_DT way_NN ._.
+In_NNP other_JJ commodity_NN markets_NNS yesterday_NN :_:
+ENERGY_JJ :_:
+Petroleum_NNP futures_NNS were_VBD generally_RB higher_JJR with_IN heating_NN oil_NN leading_VBG the_DT way_NN ._.
 On_IN the_DT New_JJ York_NNP Mercantile_NNP Exchange_NNP ,_, heating_NN oil_NN for_RB December_NNP delivery_NN increased_VBD 1.25_JJ cents_NNS to_JJ settle_VB at_IN 60.36_JJ cents_NNS a_DT gallon_JJ ._.
 Gasoline_JJ futures_NNS were_VBD mixed_VBD to_JJ unchanged_JJ ._.
 But_CC the_DT strength_NN in_RB heating_NN oil_NN helped_VBD push_NN up_RB crude_JJ oil_NN ._.
 West_NNP Texas_NNP Intermediate_JJ crude_JJ for_RB December_NNP delivery_NN rose_VBD 13_CD cents_NNS a_DT barrel_NN to_JJ settle_VB at_IN $_$ 20.07_JJ ._.
 The_DT firmness_JJ in_RB heating_NN oil_NN was_VBD attributed_VBD to_JJ colder_JJ weather_JJ in_RB parts_NNS of_IN the_DT U.S._JJ and_CC to_JJ the_DT latest_JJS weekly_JJ report_NN by_RB the_DT American_JJ Petroleum_NNP Institute_NNP ,_, which_IN showed_VBD a_DT decline_NN in_RB inventories_NNS of_IN the_DT fuel_NN ._.
-GRAINS_JJ AND_JJ SOYBEANS_JJ :_: Prices_JJ closed_VBD mostly_RB higher_JJR in_RB relatively_RB light_NN trading_NN as_RB farmers_NNS continued_VBD to_JJ withhold_VB their_PRP$ crops_NNS from_IN the_DT marketplace_NN in_RB the_DT hope_NN of_IN higher_JJR prices_NNS 0_CD- to_JJ come_VB ._.
+GRAINS_JJ AND_JJ SOYBEANS_JJ :_:
+Prices_JJ closed_VBD mostly_RB higher_JJR in_RB relatively_RB light_NN trading_NN as_RB farmers_NNS continued_VBD to_JJ withhold_VB their_PRP$ crops_NNS from_IN the_DT marketplace_NN in_RB the_DT hope_NN of_IN higher_JJR prices_NNS 0_CD- to_JJ come_VB ._.
 Trading_NN was_VBD muted_JJ in_RB part_NN because_RB of_IN the_DT observance_JJ of_IN All_DT Saints_JJ '_'' Day_JJ across_IN much_RB of_IN Europe_NNP ._.
 Continued_JJ export_NN demand_NN also_RB supported_VBN prices_NNS ._.
 As_RB an_DT indicator_NN of_IN the_DT tight_JJ grain_NN supply_NN situation_NN in_RB the_DT U.S._JJ ,_, market_NN analysts_NNS said_VBD that_DT late_JJ Tuesday_NNP the_DT Chinese_NN government_NN ,_, which_IN often_RB buys_JJ U.S._JJ grains_JJ in_RB quantity_NN ,_, turned_VBD instead_RB to_JJ Britain_NNP to_JJ buy_NN 500,000_CD metric_JJ tons_NNS of_IN wheat_NN ._.
 Traders_JJ said_VBD 0_CD- prices_NNS also_RB were_VBD supported_VBN by_RB widespread_JJ rumors_JJ that_DT the_DT Soviet_JJ Union_NNP is_VBZ on_RB the_DT verge_JJ of_IN receiving_VBG most_JJS favored_VBD nation_NN status_NN from_IN the_DT U.S._JJ ._.
 That_DT designation_JJ would_MD ,_, among_IN other_JJ things_NNS ,_, provide_VB more_JJ generous_JJ credit_NN terms_NNS under_IN which_IN the_DT Soviets_NNS could_MD purchase_NN grain_NN ._.
 The_DT Soviets_NNS are_NN widely_RB believed_VBD to_JJ need_NN additional_JJ supplies_VBZ ,_, despite_IN running_VBG up_RB record_NN one-month_JJ purchases_NNS of_IN 310_JJ million_CD bushels_JJ of_IN corn_NN in_RB October_NNP ._.
-COPPER_JJ :_: Futures_NNP prices_NNS rose_VBD ,_, extending_VBG Tuesday_NNP 's_POS gains_NNS ._.
+COPPER_JJ :_:
+Futures_NNP prices_NNS rose_VBD ,_, extending_VBG Tuesday_NNP 's_POS gains_NNS ._.
 The_DT December_NNP contract_NN advanced_JJ 2.50_CD cents_NNS a_DT pound_NN to_JJ $_$ 1.1650_JJ ._.
 Buying_JJ for_RB the_DT most_JJS part_NN carried_VBD over_RB from_IN the_DT previous_JJ session_NN ,_, and_CC traders_NNS apparently_RB ignored_JJ reports_NNS that_DT a_DT Chilean_JJ mine_JJ strike_NN may_MD have_VB ended_VBD almost_RB before_RB it_PRP began_VBD ,_, an_DT analyst_NN said_VBD 0_CD- ._.
 According_VBG to_JJ news_NN service_NN reports_NNS ,_, most_JJS workers_NNS at_IN the_DT Disputado_JJ mines_JJ owned_VBN by_RB Exxon_NNP Corp._NNP agreed_NN to_JJ a_DT new_JJ two-year_JJ wage_NN contract_NN that_DT includes_VBZ a_DT 5_CD %_NN increase_NN and_CC other_JJ benefits_NNS ._.
@@ -663,7 +680,8 @@ But_CC with_IN the_DT index_NN proving_JJ somewhat_JJ better_RBR than_IN expecte
 Uncertainty_JJ about_RB the_DT prospects_NNS for_RB further_JJ action_NN to_JJ curtail_JJ stock-index_NN arbitrage_NN ,_, a_DT form_NN of_IN program_NN trading_NN blamed_VBD for_RB recent_JJ volatility_NN in_RB the_DT market_NN ,_, also_RB contributed_VBD to_JJ its_PRP$ lack_NN of_IN direction_NN ,_, Mr._NNP Puccio_JJ said_VBD 0_CD- ._.
 Arbitrage-related_JJ trading_NN during_IN the_DT session_NN was_VBD confined_VBN largely_RB to_JJ a_DT round_NN of_IN buy_NN programs_NNS near_JJ the_DT close_JJ ,_, which_IN helped_VBD offset_VB the_DT impact_NN of_IN profit-taking_JJ among_IN blue_JJ chips_NNS ._.
 Trading_NN is_VBZ expected_VBN to_JJ remain_VB subdued_JJ as_RB the_DT market_NN awaits_JJ tomorrow_JJ 's_POS release_NN of_IN the_DT jobs_NNS data_NN with_IN the_DT hope_NN that_DT it_PRP will_MD point_NN toward_IN a_DT decline_NN in_RB interest_NN rates_NNS ._.
-``_`` I_NNP sense_NN that_DT some_DT people_NNS are_NN reluctant_JJ to_JJ stick_JJ their_PRP$ necks_JJ out_RB in_RB any_DT aggressive_JJ way_NN until_IN after_RB the_DT figures_NNS come_VB out_RB ,_, ''_'' said_VBD Richard_NNP Eakle_JJ ,_, president_NN of_IN Eakle_JJ Associates_NNP ,_, Fair_NNP Haven_NNP ,_, Campbell_NNP Soup_NNP jumped_VBD 3 3\/8_JJ to_JJ 47 1\/8_JJ as_RB the_DT resignation_NN of_IN R._NNP Gordon_NNP McGovern_NNP as_RB president_NN and_CC chief_JJ executive_NN officer_NN sparked_VBN a_DT revival_JJ of_IN rumors_JJ that_DT the_DT company_NN could_MD become_VB a_DT takeover_NN target_NN ._.
+``_`` I_NNP sense_NN that_DT some_DT people_NNS are_NN reluctant_JJ to_JJ stick_JJ their_PRP$ necks_JJ out_RB in_RB any_DT aggressive_JJ way_NN until_IN after_RB the_DT figures_NNS come_VB out_RB ,_, ''_'' said_VBD Richard_NNP Eakle_JJ ,_, president_NN of_IN Eakle_JJ Associates_NNP ,_, Fair_NNP Haven_NNP ,_,
+Campbell_NNP Soup_NNP jumped_VBD 3 3\/8_JJ to_JJ 47 1\/8_JJ as_RB the_DT resignation_NN of_IN R._NNP Gordon_NNP McGovern_NNP as_RB president_NN and_CC chief_JJ executive_NN officer_NN sparked_VBN a_DT revival_JJ of_IN rumors_JJ that_DT the_DT company_NN could_MD become_VB a_DT takeover_NN target_NN ._.
 Prudential-Bache_NNP Securities_NNP boosted_VBD the_DT stock_NN 's_POS short-term_JJ investment_NN rating_JJ in_RB response_NN to_JJ the_DT departure_NN ;_: analyst_NN John_NNP McMillin_NNP said_VBD 0_CD- he_PRP believes_VBZ 0_CD- the_DT company_NN will_MD turn_NN to_JJ new_JJ management_NN ``_`` that_DT 's_POS more_JJ financially_RB oriented_VBN ._. ''_''
 Other_JJ rumored_VBN takeover_NN and_CC restructuring_NN candidates_NNS 0_CD- to_JJ attract_VB buyers_NNS included_VBD Woolworth_JJ ,_, which_IN went_VBD up_RB 1 3\/4_JJ to_JJ 59 1\/2_JJ ;_: Avon_JJ Products_JJ ,_, up_RB 1 3\/4_JJ to_JJ 29 1\/4_JJ ;_: Paramount_JJ Communications_NNP ,_, up_RB 2_CD to_JJ 57 7\/8_JJ ,_, and_CC Ferro_JJ ,_, up_RB 2 5\/8_JJ to_JJ 28 3\/4_JJ ._.
 Upjohn_JJ ,_, a_DT rumored_VBN target_NN within_IN the_DT drug_NN industry_NN ,_, advanced_JJ 7\/8_CD to_JJ 38 7\/8_JJ ._.
@@ -858,9 +876,11 @@ Light_JJ trucks_NNS and_CC vans_NNS will_MD face_NN the_DT same_JJ safety_NN req
 The_DT Treasury_NNP plans_NNS to_JJ sell_NN $_$ 30_CD billion_CD in_RB notes_NNS and_CC bonds_NNS next_JJ week_NN but_CC will_MD delay_VBP the_DT auction_NN unless_IN Congress_NNP quickly_RB raises_VBZ the_DT debt_NN ceiling_NN ._.
 U.S._JJ farmers_NNS '_'' net_JJ income_NN rose_VBD to_JJ a_DT record_NN $_$ 59.9_CD billion_CD last_JJ year_NN despite_IN one_NN of_IN the_DT worst_JJS droughts_NNS ever_RB ._.
 Two_CD antitrust_JJ agencies_NNS may_MD face_NN further_JJ cutbacks_NNS because_RB of_IN a_DT complicated_JJ new_JJ funding_NN device_NN ,_, some_DT Democrats_NNPS in_RB Congress_NNP are_NN warning_NN 0_CD- ._.
-Markets_JJ --_: Stocks_JJ :_: Volume_JJ 154,240,000_JJ shares_NNS ._.
+Markets_JJ --_:
+Stocks_JJ :_: Volume_JJ 154,240,000_JJ shares_NNS ._.
 Dow_NNP Jones_NNP industrials_NNS 2645.90_CD ,_, up_RB 0.82_JJ ;_: transportation_NN 1206.26_JJ ,_, up_RB 1.25_JJ ;_: utilities_JJ 220.45_JJ ,_, up_RB 1.26_JJ ._.
-Bonds_JJ :_: Shearson_NNP Lehman_NNP Hutton_NNP Treasury_NNP index_NN 3436.58_JJ ,_, up_RB Commodities_JJ :_: Dow_NNP Jones_NNP futures_NNS index_NN 129.91_JJ ,_, up_RB 0.28_JJ ;_: spot_NN index_NN 131.01_JJ ,_, up_RB 1.17_JJ ._.
+Bonds_JJ :_: Shearson_NNP Lehman_NNP Hutton_NNP Treasury_NNP index_NN 3436.58_JJ ,_, up_RB
+Commodities_JJ :_: Dow_NNP Jones_NNP futures_NNS index_NN 129.91_JJ ,_, up_RB 0.28_JJ ;_: spot_NN index_NN 131.01_JJ ,_, up_RB 1.17_JJ ._.
 Dollar_NNP :_: 143.80_CD yen_NN ,_, up_RB 0.95_JJ ;_: 1.8500_CD marks_NNS ,_, up_RB 0.0085_JJ ._.
 Junk-bond_JJ markdowns_JJ ,_, an_DT ongoing_JJ Securities_NNP and_CC Exchange_NNP Commission_NNP investigation_NN ,_, a_DT Drexel_JJ Burnham_JJ Lambert_JJ connection_NN ,_, a_DT fizzled_JJ buy-out_JJ rumor_JJ ._.
 All_DT this_DT has_VBP cast_VBN a_DT pall_JJ over_RB Columbia_NNP Savings_NNP &_CC Loan_NNP Association_NNP and_CC its_PRP$ high-rolling_JJ 43-year-old_JJ chairman_NN ,_, Thomas_NNP Spiegel_JJ ,_, who_WP built_VBD the_DT $_$ 12.7_JJ billion_CD Beverly_NNP Hills_NNP ,_, Calif._NNP ,_, thrift_NN with_IN high-yield_JJ junk_NN bonds_NNS ._.
@@ -901,7 +921,13 @@ Few_JJ people_NNS think_VB 0_CD- Mr._NNP Spiegel_JJ wants_VBZ to_JJ run_NN a_DT 
 Of_IN course_NN ,_, regulators_NNS would_MD have_VB to_JJ approve_VB Columbia_NNP 's_POS reorganization_NN ._.
 And_CC some_DT investment_NN bankers_NNS say_VB 0_CD- a_DT restructuring_NN is_VBZ n't_RB feasible_JJ while_NN the_DT SEC_NNP still_RB is_VBZ scrutinizing_VBG Mr._NNP Spiegel_JJ 's_POS past_JJ junk-bond_JJ trades_NNS ._.
 Pauline_JJ Yoshihashi_JJ in_RB Los_NNP Angeles_NNP contributed_VBD to_JJ this_DT article_NN ._.
-Columbia_NNP Savings_NNP &_CC Loan_NNP -LRB-_-LRB- NYSE_JJ ;_: Symbol_JJ :_: CSV_JJ -RRB-_-RRB- Business_NNP :_: Savings_NNP and_CC loan_NN Year_NN ended_VBD Dec._NN 31_CD ,_, 1988_CD :_: Net_JJ income_NN :_: $_$ 65_CD million_CD ;_: or_CC $_$ 1.49_JJ a_DT share_NN Third_JJ quarter_NN ,_, Sept._JJ 30_CD ,_, 1989_CD :_: Net_JJ loss_NN :_: $_$ 11.57_JJ a_DT share_NN vs._IN net_JJ income_NN :_: 37_CD cents_NNS a_DT share_NN Average_JJ daily_JJ trading_NN volume_NN :_: 83,206_JJ shares_NNS Common_JJ shares_NNS outstanding_JJ :_: 19.6_JJ million_CD Note_JJ :_: All_DT per-share_JJ figures_NNS are_NN fully_RB diluted_JJ ._.
+Columbia_NNP Savings_NNP &_CC Loan_NNP -LRB-_-LRB- NYSE_JJ ;_: Symbol_JJ :_: CSV_JJ -RRB-_-RRB-
+Business_NNP :_: Savings_NNP and_CC loan_NN
+Year_NN ended_VBD Dec._NN 31_CD ,_, 1988_CD :_: Net_JJ income_NN :_: $_$ 65_CD million_CD ;_: or_CC $_$ 1.49_JJ a_DT share_NN
+Third_JJ quarter_NN ,_, Sept._JJ 30_CD ,_, 1989_CD :_: Net_JJ loss_NN :_: $_$ 11.57_JJ a_DT share_NN vs._IN net_JJ income_NN :_: 37_CD cents_NNS a_DT share_NN
+Average_JJ daily_JJ trading_NN volume_NN :_: 83,206_JJ shares_NNS
+Common_JJ shares_NNS outstanding_JJ :_: 19.6_JJ million_CD
+Note_JJ :_: All_DT per-share_JJ figures_NNS are_NN fully_RB diluted_JJ ._.
 Genetics_JJ Institute_NNP Inc._NNP ,_, Cambridge_NNP ,_, Mass._NNP ,_, said_VBD 0_CD- it_PRP was_VBD awarded_VBD U.S._JJ patents_NNS for_RB Interleukin-3_JJ and_CC bone_JJ morphogenetic_JJ protein_JJ ._.
 The_DT patent_NN for_RB Interleukin-3_JJ covers_NNS materials_NNS and_CC methods_NNS used_JJ to_JJ make_VB the_DT human_JJ blood_NN cell_NN growth_NN factor_NN via_IN recombinant_JJ DNA_JJ technology_NN ._.
 Sandoz_JJ Ltd._NNP has_VBP licensed_VBD certain_JJ manufacturing_NN and_CC marketing_NN rights_NNS for_RB Interleukin-3_JJ from_IN Genetics_JJ Institute_NNP and_CC is_VBZ conducting_VBG preclinical_JJ studies_NNS with_IN it_PRP ._.
@@ -922,8 +948,7 @@ In_NNP contrast_VBP ,_, the_DT lawyers_NNS '_'' association_NN gives_VBZ a_DT ``
 Metallgesellschaft_JJ AG_NNP said_VBD 0_CD- it_PRP agreed_NN to_JJ acquire_VB 51_CD %_NN of_IN Lentjes_JJ AG_NNP from_IN the_DT Ferdinand_JJ Lentjes_JJ Foundation_NNP ._.
 Terms_NNS were_VBD n't_RB disclosed_VBD ._.
 Metallgesellschaft_JJ ,_, a_DT diversified_VBN Frankfurt_JJ ,_, West_NNP Germany-based_JJ metals_NNS group_NN ,_, said_VBD 0_CD- it_PRP is_VBZ buying_NN the_DT stake_NN in_RB the_DT specialized_JJ engineering_NN company_NN to_JJ expand_VB its_PRP$ production_NN of_IN environmental_JJ supplies_VBZ for_RB power_NN plants_NNS ._.
-Lentjes_JJ '_'' product_NN mix_JJ of_IN specialized_JJ boilers_JJ and_CC pipes_JJ provides_VBZ a_DT good_JJ fit_NN with_IN its_PRP$ own_JJ Lurgi_JJ G.m.b_JJ ._.
-H._NNP plant_NN engineering_NN unit_NN ,_, the_DT company_NN said_VBD 0_CD- ._.
+Lentjes_JJ '_'' product_NN mix_JJ of_IN specialized_JJ boilers_JJ and_CC pipes_JJ provides_VBZ a_DT good_JJ fit_NN with_IN its_PRP$ own_JJ Lurgi_JJ G.m.b_JJ ._. H._NNP plant_NN engineering_NN unit_NN ,_, the_DT company_NN said_VBD 0_CD- ._.
 The_DT move_NN is_VBZ part_NN of_IN a_DT strategy_NN 0_CD- to_JJ focus_NN on_RB its_PRP$ core_NN metals_NNS trading_NN ,_, processing_JJ and_CC plant_NN engineering_NN activities_NNS while_NN shedding_JJ peripheral_JJ units_NNS ,_, the_DT company_NN said_VBD 0_CD- ._.
 Lentjes_JJ had_VBD 1988_CD sales_NNS of_IN 800_CD million_CD marks_NNS -LRB-_-LRB- $_$ 434.4_JJ million_CD -RRB-_-RRB- and_CC has_VBP a_DT current_JJ order_NN backlog_JJ of_IN 2.5_CD billion_CD marks_NNS ._.
 The_DT sale_NN comes_VBZ in_RB place_NN of_IN a_DT planned_JJ initial_JJ public_JJ offering_NN of_IN Lentjes_JJ stock_NN ._.
@@ -952,8 +977,8 @@ An_DT Upjohn_JJ spokesman_NN said_VBD 0_CD- he_PRP had_VBD ``_`` heard_VBD nothi
 The_DT company_NN earlier_RB this_DT year_NN adopted_VBD a_DT shareholder-rights_JJ plan_NN to_JJ ward_VB off_JJ unwanted_JJ suitors_JJ ._.
 The_DT spokesman_NN said_VBD 0_CD- it_PRP is_VBZ the_DT first_JJ early_JJ retirement_NN plan_NN offered_VBD under_IN its_PRP$ two-year_JJ cost-control_JJ strategy_NN ._.
 Earlier_JJR staff-reduction_JJ moves_NNS have_VB trimmed_JJ about_RB 300_CD jobs_NNS ,_, the_DT spokesman_NN said_VBD 0_CD- ._.
-INTER-TEL_JJ Inc_NNP ._.
--LRB-_-LRB- Chandler_NNP ,_, Ariz._NNP -RRB-_-RRB- --_: Jerry_NNP Chapman_JJ ,_, managing_VBG director_NN of_IN WayMar_JJ Associates_NNP ,_, was_VBD elected_VBN a_DT director_NN of_IN this_DT business_NN telecommunications_NN software_NN and_CC systems_NNS concern_NN ._.
+INTER-TEL_JJ Inc_NNP ._. -LRB-_-LRB- Chandler_NNP ,_, Ariz._NNP -RRB-_-RRB- --_:
+Jerry_NNP Chapman_JJ ,_, managing_VBG director_NN of_IN WayMar_JJ Associates_NNP ,_, was_VBD elected_VBN a_DT director_NN of_IN this_DT business_NN telecommunications_NN software_NN and_CC systems_NNS concern_NN ._.
 He_PRP increases_NNS the_DT board_NN to_JJ seven_CD ._.
 ``_`` Feeding_JJ Frenzy_JJ ''_'' -LRB-_-LRB- Henry_NNP Holt_JJ ,_, 326_JJ pages_NNS ,_, $_$ 19.95_JJ -RRB-_-RRB- ,_, a_DT highly_RB detailed_JJ account_NN of_IN the_DT Wedtech_JJ scandal_JJ ,_, begins_VBZ on_RB a_DT reassuring_JJ note_NN ._.
 Right_RB up_RB front_NN in_RB the_DT preface_JJ ,_, co-author_JJ William_NNP Sternberg_JJ gives_VBZ us_PRP an_DT example_NN of_IN his_PRP$ own_JJ integrity_JJ ._.
@@ -1073,7 +1098,8 @@ And_CC it_PRP is_VBZ n't_RB clear_JJ that_DT the_DT Soviet_JJ Union_NNP will_MD 
 The_DT Soviet_JJ orders_NNS were_VBD compressed_JJ into_IN the_DT month_NN of_IN October_NNP because_RB of_IN delays_JJ ._.
 The_DT Soviet_JJ Union_NNP usually_RB begins_VBZ buying_NN U.S._JJ crops_NNS earlier_RB in_RB the_DT fall_NN ._.
 But_CC its_PRP$ purchases_NNS apparently_RB were_VBD delayed_JJ by_RB a_DT reorganization_NN of_IN its_PRP$ agricultural_JJ bureaucracy_JJ as_RB well_RB as_RB budget_NN problems_NNS ._.
-In_NNP other_JJ commodity_NN markets_NNS yesterday_NN :_: ENERGY_JJ :_: Crude_JJ oil_NN futures_NNS prices_NNS increased_VBD in_RB moderate_JJ trading_NN ,_, but_CC much_RB of_IN the_DT action_NN was_VBD in_RB heating_NN oil_NN ._.
+In_NNP other_JJ commodity_NN markets_NNS yesterday_NN :_:
+ENERGY_JJ :_: Crude_JJ oil_NN futures_NNS prices_NNS increased_VBD in_RB moderate_JJ trading_NN ,_, but_CC much_RB of_IN the_DT action_NN was_VBD in_RB heating_NN oil_NN ._.
 Prices_JJ rose_VBD on_RB the_DT news_NN that_DT a_DT sizable_JJ West_NNP German_JJ refinery_JJ was_VBD damaged_JJ in_RB a_DT fire_NN ,_, tightening_JJ an_DT already_RB tight_JJ European_JJ market_NN ._.
 Heating_JJ oil_NN for_RB November_NNP delivery_NN ended_VBD at_IN 58.64_JJ cents_NNS a_DT gallon_JJ ,_, up_RB one_NN cent_NN on_RB the_DT New_JJ York_NNP Mercantile_NNP Exchange_NNP ._.
 West_NNP Texas_NNP Intermediate_JJ for_RB December_NNP delivery_NN advanced_JJ 22_CD cents_NNS to_JJ $_$ 19.94_JJ a_DT barrel_NN ._.
